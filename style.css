@@ -3,7 +3,9 @@ body{
 }
 h1{
     text-align: center; color: aliceblue;
+    background-color: rgb(73, 73, 73);
 }
 p{
     text-align: center; color: aliceblue;
+    background-color: rgb(73, 73, 73);
 }
